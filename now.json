@@ -1,7 +1,7 @@
 {
   "build": {
     "env": {
-      "VARIABLE_NAME": "@DATO_API_TOKEN"
+      "DATO_API_TOKEN": "@dato_api_token"
     }
   }
 }
